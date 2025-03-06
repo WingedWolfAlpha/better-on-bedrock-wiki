@@ -4,11 +4,11 @@ This wiki is a work-in-progress. More info/updates coming soon!
 :::
 
 Curious as to how they look and where to find them?
-Look no further as this page shows you the player! all of the current structures you can find within the Add-On
+Look no further, as this page shows you, the player, all of the current structures you can find within the Add-On!
 ![image](/Main/assets/bob-rebrand.png)
 ## Adventurer Camp
 ![image](/Main/assets/structures/adventure_camp.png)
-This structure is home to one lost traveler. It was set up at random places in a world. It was his way to write a story.
+This structure was home to one lost traveler. He set them up in random places throughout the world. It was his way to write a story.
 
 #### Biomes:
 - Savanna
@@ -41,7 +41,7 @@ This is where you will find the Enchantaegis. He has some villagers locked up, s
 
 ## Flender Tower
 ![image](/Main/assets/structures/flender.png)
-This tower is home to the Flender. Any traveler that goes near it, will have to battle for peace.
+This tower is home to the Flender. Any traveler that goes near it—will have to battle for peace.
 ### Biomes:
 - Plains
 - Forests
@@ -132,7 +132,7 @@ Home of the Samurai
 
 ## Fungal Tower
 ![image](/Main/assets/structures/fungal_tower.png)
-A Home to the fungi.
+A home to the fungi.
 
 ## Seeker Arena
 ![image](/Main/assets/structures/seeker_arena.png)
@@ -144,7 +144,7 @@ I wonder who created such thing.
 
 ## Floating End Portal
 ![image](/Main/assets/structures/end_portal_ruins.png)
-Huh A way back to the overworld. Cool!
+Huh? A way back to the overworld? Cool!
 
 ## Vacant Hideout
 ![image](/Main/assets/structures/vacant_hideout.png)
