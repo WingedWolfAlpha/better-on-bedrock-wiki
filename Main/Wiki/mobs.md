@@ -15,7 +15,7 @@ Need help with how to find mobs or what they do? This wiki has your back. Select
 ### Info
 The Willager is part of the Illager Family. He is the ruler amongst them.
 ### Location
-The Willager is found at a ruined structures. The structure contains pillars and one chest in the center. Open the chest to summon the Willager.
+The Willager is found at ruined structures. The structure contains pillars and one chest in the center. Open the chest to summon the Willager.
 
 ## Enchantaegis
 <div style="display: flex; align-items: center;">
@@ -23,9 +23,9 @@ The Willager is found at a ruined structures. The structure contains pillars and
 </div>
 
 ### Info
-The Enchantaegis is part of the Illager Family. He is the one that gave them power. He can not be damaged while he is enchanted.
+The Enchantaegis is part of the Illager Family. He is the one that gave them power. He cannot be damaged while he is enchanted.
 ### Location
-The Enchantaegis is found at a ruined pyramid. The structure contains a secret room and kidnapped villager that were tested on by the Enchantaegis.
+The Enchantaegis is found at a ruined pyramid. The structure contains a secret room and kidnapped villagers that were tested on by the Enchantaegis.
 
 ## Flender
 <div style="display: flex; align-items: center;">
@@ -33,7 +33,7 @@ The Enchantaegis is found at a ruined pyramid. The structure contains a secret r
 </div>
 
 ### Info
-The Flender is the Leader of the Phantoms.
+The Flender is the Leader of the Phantoms
 ### Location
 The Flender is located on top of a quarts tower. To summon the Flender, simply walk near this tower and it will spawn.
 
@@ -43,9 +43,9 @@ The Flender is located on top of a quarts tower. To summon the Flender, simply w
 </div>
 
 ### Info
-The Shielded Pyroclast is the King of the Nether.
+The Shielded Pyroclast is the King of the Nether
 ### Location
-The Shielded Pyroclast is located in a battle arena found in the Nether.
+The Shielded Pyroclast is located in a battle arena found in the Nether
 
 ## Withered Samurai
 <div style="display: flex; align-items: center;">
@@ -55,7 +55,7 @@ The Shielded Pyroclast is located in a battle arena found in the Nether.
 ### Info
 The Withered Samurai is the Wither Keeper
 ### Location
-The Withered Samurai is located inside a Blacstone Caslte found in the Nether.
+The Withered Samurai is located inside a blackstone castle found in the Nether
 
 
 
@@ -78,7 +78,7 @@ The Withered Samurai is located inside a Blacstone Caslte found in the Nether.
 ### Info
 The Racoon is a passive mob found in the overworld. This mob is really friendly and will take any gifts you give it.
 ### What It Does
-The Racoon can not be tamed. The Racoon can dig up treasure for you at random times. The items are shown in the table below with the chance it has to spawn.
+The Racoon cannot be tamed. The Racoon can dig up treasure for you at random times. The items are shown in the table below with the chance it has to spawn.
 | Item                     | Drop % |
 |--------------------------|--------|
 | Record Mellohi           | 10     |
@@ -108,7 +108,7 @@ This Mob can be bred with any food item
 </div>
 
 ### Info
-The deer is a passive mob. The deer has a change to spawn with an ehcnated variant. The enchanted variant gives the mob more health and better loot drops
+The deer is a passive mob. The deer has a change to spawn with an enchanted variant. The enchanted variant gives the mob more health and better loot drops.
 ### Drops
 | **Drop**      | **%** | **Enchanted Drop** | **Enchanted %** |
 |---------------|-------|--------------------|-----------------|
@@ -122,7 +122,7 @@ This Mob can be bred with wheat
 </div>
 
 ### Info
-The Toucan is a passive mob. It is part of the bird family. It spawns anywhere in the Overworld. The Toucan can not be tamed.
+The Toucan is a passive mob. It is part of the bird family. It spawns anywhere in the Overworld. The Toucan cannot be tamed.
 
 ## Squirrel
 <div style="display: flex; align-items: center;">
@@ -130,7 +130,7 @@ The Toucan is a passive mob. It is part of the bird family. It spawns anywhere i
 </div>
 
 ### Info
-The squirrel is a passive mob. It is found anywhere in the Overworld. The Squirrel can not be tamed
+The squirrel is a passive mob. It is found anywhere in the Overworld. The Squirrel cannot be tamed.
 
 ## Goblin Trader
 <div style="display: flex; align-items: center;">
@@ -141,7 +141,7 @@ The squirrel is a passive mob. It is found anywhere in the Overworld. The Squirr
 The Goblin Trader is a Passive Mob. This mob has a rare chance to spawn. This little guy can be traded with, and he has the best trades.
 
 ::: info
-This mob has a 10% to spawn.
+This mob has a 10% chance to spawn
 :::
 
 ### Trades
@@ -227,7 +227,7 @@ The Lonely Wizard is a Villager Wizard. He lives alone far from his kind.
 ### Trades
 He trades Activated Runes for Staffs
 ### Where to find
-This mob is found within Taiga biomes inside a big house.
+This mob is found within Taiga biomes inside a big house
 
 
 ## Sparrow
@@ -236,7 +236,7 @@ This mob is found within Taiga biomes inside a big house.
 </div>
 
 ### Info
-The Sparrow is a passive mob. It is part of the Bird Family. This Mob can not be tamed, but can be bred. This mob is found in the overworld.
+The Sparrow is a passive mob. It is part of the Bird Family. This Mob cannot be tamed, but can be bred. This mob is found in the overworld.
 ### Breedable
 This Mob can be bred with any seed
 
@@ -254,7 +254,7 @@ Once it is hatched from the egg, you feed it lava salad to tame it, which would 
 |---------------|-------|
 | **Quetzacaw Feather** | 100    |
 ### Breedable
-This Mob can not breed.
+This Mob cannot breed
 
 ## Hellhound
 <div style="display: flex; align-items: center;">
@@ -262,9 +262,9 @@ This Mob can not breed.
 </div>
 
 ### Info
-The Hell Hound is a wolf in the Nether. It is big. When it attacks, its target is set on fire
+The Hell Hound is a wolf in the Nether. It is big. When it attacks, its target is set on fire.
 ### Breedable
-This Mob can not breed.
+This Mob cannot breed
 
 ## Fire Wisps
 <div style="display: flex; align-items: center;">
@@ -295,7 +295,7 @@ The Bacterio is a new alien-like creature in the end dimension. It likes fungus 
 </div>
 
 ### Info
-The bloob is a new ambient creature for the end dimension. It is friendly, but can't be tamed.
+The bloob is a new ambient creature in the end dimension. It is friendly, but can't be tamed.
 
 ### Extra Info
 | **Spawns**  | **Drops**     | **%** |
@@ -310,7 +310,7 @@ The bloob is a new ambient creature for the end dimension. It is friendly, but c
 </div>
 
 ### Info
-The Chorus Behimeth is a new ambient and hostile mob for the end dimension. It is similar to the Sniffer, but this one is a bit more hostile.
+The Chorus Behimeth is a new ambient and hostile mob in the end dimension. It is similar to the Sniffer, but this one is a bit more hostile.
 
 ### Extra Info
 | **Spawns**  | **Drops**     | **%** |
@@ -326,7 +326,7 @@ The Chorus Behimeth is a new ambient and hostile mob for the end dimension. It i
 </div>
 
 ### Info
-The Chorus Golem is a new mob for the end dimension. The Chorus Golem is hostile by default, but can be made passive when given its own shard
+The Chorus Golem is a new mob in the end dimension. The Chorus Golem is hostile by default, but can be made passive when given its own shard.
 
 ### Extra Info
 | **Spawns**  | **Drops**     | **%** |
@@ -402,7 +402,7 @@ The Ender Merchant is a new alien-like creature in the end dimension. It likes f
 </div>
 
 ### Info
-The Groohog is a new ambient mob in the end dimension. Contrary to what their appearance might lead you to believe, they are very passive by nature..
+The Groohog is a new ambient mob in the end dimension. Contrary to what their appearance might lead you to believe, they are very passive by nature.
 
 ### Extra Info
 | **Spawns**  | **Drops**     | **%** |
@@ -445,7 +445,7 @@ The Infected is a new hostile in the end dimension. Formerly an Enderman, they f
 </div>
 
 ### Info
-The Jelly is a new ambient creature for the end dimension. Just as friendly as their bloob friends
+The Jelly is a new ambient creature for the end dimension. Just as friendly as their bloob friends.
 
 ### Extra Info
 | **Spawns**  | **Drops**     | **%** |
@@ -474,7 +474,7 @@ The Longleg is a new hostile in the end dimension. Like their spider cousins, th
 </div>
 
 ### Info
-The Mooth is a new ambient creature for the end dimension. They're just cute and fluffy
+The Mooth is a new ambient creature for the end dimension. They're just cute and fluffy.
 
 
 ### Extra Info
@@ -518,7 +518,7 @@ The Seeker is a new boss for the end dimension. Watch out for its piercing eye, 
 </div>
 
 ### Info
-The Soot is a new boss for the end dimension. Keen to preserve its treasure, it will not hesitate to attack anyone who dares to come near its habitat, beware of a certain Eye that this sorcerer can conjure
+The Soot is a new boss for the end dimension. Keen to preserve its treasure, it will not hesitate to attack anyone who dares to come near its habitat, beware of a certain Eye that this sorcerer can conjure.
 ### Extra Info 
 | **Spawns**  | **Drops**     | **%** |
 |---------------|---|-------|
